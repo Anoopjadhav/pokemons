@@ -1,0 +1,20 @@
+* {
+  font-family: Lato;
+  margin: 0;
+  padding: 0;
+}
+.pokemons {
+  padding: 1rem;
+}
+.add-pokemon,
+.pokemon-list {
+  padding: 1rem;
+}
+
+.pokemon-list ul {
+  padding: 1rem;
+}
+
+.input {
+  padding-top: 1rem;
+}
